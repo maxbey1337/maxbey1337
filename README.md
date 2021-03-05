@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **maxbey1337@gmail.com**
+- 📫 How to reach me **maxbey1337@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
