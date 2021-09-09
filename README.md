@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm maxbey</h1>
-<h3 align="center">💸 Bug Hunter | 💻 Exploit Developer | 🐍 Python Developer</h3>
+<h3 align="center">💸 Bug Hunter / Full Stack Developer / Security Researcher</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/maxbey1337](github.com/maxbey1337)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Programming**
 
-- 📫 How to reach me **maxbey1337@protonmail.com**
+- 📫 How to reach me **Coming Soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
